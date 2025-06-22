@@ -58,7 +58,7 @@ for i in range(n): ---O(n)
 
 O(logN)- Example: Divide and conquer
 
----------Tricky Interview Question---------------
+---------Tricky BigO Question---------------
 def print_items(a,b):
 for i in range(a): --O(a)
         print(i)
